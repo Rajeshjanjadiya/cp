@@ -46,8 +46,7 @@
 
 ## 🤖 Bot Usernames
 
-- [@saini_contact_bot](https://t.me/saini_contact_bot)
-- [@saini_file_store_bot](https://t.me/saini_file_store_bot)
+- [@Coursexpay_bot](https://t.me/Coursexpay_bot)
 
 ---
 
