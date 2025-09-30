@@ -52,8 +52,7 @@
 
 ## 📂 Original Repositories
 
-- 🔗 [nikhilsainiop/saini-txt-direct](https://github.com/nikhilsainiop/saini-txt-direct)
-- 🔗 [cyberseller999/saini-txt-direct](https://github.com/cyberseller999/saini-txt-direct)
+- 🔗 [vashu5uhsav-art/5](https://github.com/vashu5uhsav-art/5)
 
 ---
 
