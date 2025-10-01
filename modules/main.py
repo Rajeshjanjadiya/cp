@@ -51,7 +51,7 @@ async def start(bot, m: Message):
     caption = f"🌟 Welcome {m.from_user.mention} ! 🌟"
     start_message = await bot.send_photo(
         chat_id=m.chat.id,
-        photo="https://iili.io/KuCBoV2.jpg",
+        photo="https://freeimage.host/i/KMeZs1I",
         caption=caption
     )
     await asyncio.sleep(1)
